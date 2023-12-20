@@ -2,11 +2,17 @@
   "name": "mistralai-edge",
   "version": "1.0.0",
   "description": "Mistral AI Javascript Client for NextJS/Edge",
-  "main": "index.js",
+  "main": "client.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/GoCeylan/mistralai-edge.git"
   },
   "author": "@goceylan",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "mistralai",
+    "mistral",
+    "nextjs",
+    "edge"
+  ]
 }
