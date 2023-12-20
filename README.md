@@ -10,5 +10,5 @@ Axios has been replaced with the native fetch API.
 
 You can install the library in your project using:
 
-`npm install mistralai-edge
+`npm install mistralai-edge`
 

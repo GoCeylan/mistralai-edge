@@ -1,6 +1,6 @@
 {
   "name": "mistralai-edge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mistral AI Javascript Client for NextJS/Edge",
   "main": "client.js",
   "repository": {
