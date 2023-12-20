@@ -14,5 +14,6 @@
     "mistral",
     "nextjs",
     "edge"
-  ]
+  ],
+  "private": true
 }
