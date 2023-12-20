@@ -2,7 +2,7 @@
 
 Mistral AI Javascript client updated to be compatible with NextJS/Edge, to interact with the Mistral AI API.
 
-Embeddings and chat completion endpoints ae supported for NextJS.
+Embeddings and chat completion endpoints are supported for NextJS.
 
 Axios has been replaced with the native fetch API.
 
